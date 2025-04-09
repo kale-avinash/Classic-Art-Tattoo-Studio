@@ -19,8 +19,7 @@ button {
     border: none;
     margin-top:5em;
 }
-.w3-validation {
-    display: none !important;
+
 }
 .button-one {
 	border: none;
@@ -960,4 +959,49 @@ ul.contact-social li a i.google:hover{
 	border: none;
 	text-indent: 100%;
 	background: url(../images/move-to-top.png) no-repeat 0px 0px;
+}
+
+
+/*omkar*/
+
+.section-heading {
+  padding: 60px 20px;
+  background: #fff;
+}
+
+.decorated-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 15px;
+}
+
+.decorated-title h3 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #003366;
+  text-transform: uppercase;
+  margin: 0;
+  position: relative;
+}
+
+.decorated-title .line {
+  height: 2px;
+  width: 50px;
+  background: linear-gradient(to right, #003366 50%, #e91e63 50%);
+}
+
+.main-heading {
+  font-size: 42px;
+  font-weight: 800;
+  color: #003366;
+  margin: 10px 0;
+}
+
+.sub-heading {
+  font-size: 18px;
+  color: #7a7a7a;
+  max-width: 800px;
+  margin: 0 auto;
 }
