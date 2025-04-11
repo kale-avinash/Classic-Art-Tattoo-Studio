@@ -329,7 +329,7 @@
 }
 
 /* about section  */
-/*.profile-card {
+.profile-card {
     display: flex;
     align-items: center;
 
@@ -345,7 +345,7 @@
     border-radius: 50%;
     object-fit: cover;
     margin-right: 15px;
-  }*/
+  }
   .profile-card {
     display: flex;
     align-items: center;
