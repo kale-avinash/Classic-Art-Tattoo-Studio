@@ -398,7 +398,7 @@
     font-size: 22px;
     padding: 8px 12px;
     border-radius: 50%;
-    text-align: center;
+    text-align: center;                 
     box-shadow: 0 4px 8px rgba(0,0,0,0.3);
     transition: 0.3s;
 }
